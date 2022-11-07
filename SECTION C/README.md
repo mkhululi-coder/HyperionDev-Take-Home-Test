@@ -18,8 +18,8 @@ To test the code, you can apply the same logic as above to the 'test_main.py' fi
 
 (NB: When installing PyCharm, make sure you install the correct package for your operating system e.g Windows. The use of PyCharm is universal.)
 
-References
-
-Juliomalegria (2012). How do I tell Python to convert integers into words - stackoverflow. Retrieved 07 November 2022, from https://stackoverflow.com/questions/8982163/how-do-i-tell-python-to-convert-integers-into-words
-
-Arnab Chakraborty (2020). Integer to English Words in Python Programming - tutorialspoint. Retrieved 07 November 2022, from https://www.tutorialspoint.com/integer-to-english-words-in-python-programming
+Below are the references that I used to complete the code challenge.
+References:
+https://stackoverflow.com/questions/8982163/how-do-i-tell-python-to-convert-integers-into-words
+https://www.tutorialspoint.com/integer-to-english-words-in-python-programming
+ 
