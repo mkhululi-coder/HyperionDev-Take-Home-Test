@@ -51,7 +51,7 @@ public class recursion {
 # Section A: Code Review - Option 2: Java Task
 ## Scores
 * **Overall Score: 65**
-* **Correctness: 2/4**
+* * **Correctness: 2/4**
 * * **Efficiency: 3/4**
 * * **Style: 3/4**
 * * **Documentation: 3/4**
